@@ -1,3 +1,5 @@
+<p align="right"><a href="README.zh-CN.md">中文</a></p>
+
 # Counterscale
 
 ![](/packages/server/public/counterscale-logo-300x300.webp)
