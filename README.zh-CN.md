@@ -65,6 +65,8 @@ npx @counterscale/cli@latest install
 
 ### 开始记录网站流量
 
+**站点 ID（site-id）：** 不需要从别处「获取」，由你自己定义。任选一个能唯一标识该站点的字符串即可，例如域名 `example.com`、缩写 `my-blog` 或 UUID。追踪代码和仪表盘里筛选站点时使用同一个 site-id 即可。
+
 可通过两种方式加载追踪代码：
 
 #### 1. 脚本加载器（CDN）

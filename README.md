@@ -65,6 +65,8 @@ NOTE: _If this is your first time deploying Counterscale, it may take take a few
 
 ### Start Recording Web Traffic from Your Website(s)
 
+**Site ID:** There is no separate "get site ID" step. You choose any string that uniquely identifies this site (e.g. your domain `example.com`, a slug `my-blog`, or a UUID). Use the same site ID in your tracking code and in the dashboard when filtering by site.
+
 You can load the tracking code using one of two methods:
 
 #### 1. Script Loader (CDN)
